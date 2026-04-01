@@ -153,6 +153,14 @@ Image gallery
 
 flexbox
 
+Transformations -
+
+
+Animations - 
+
+
+
+Javascript - It is Programmming lang, Browser Scripting lang
 
 
 
